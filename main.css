@@ -1,0 +1,28 @@
+p{
+  font-family: 'Roboto', sans-serif;
+}
+/*Font family link in head of html */
+ul{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+}
+body{
+  margin-left: 45px;
+  margin-right: 300px;
+
+}
+/*Margins adds more spacing between the edges of screen and text */
+h2{
+  font-family: 'Roboto', sans-serif;
+}
+a{
+  font-size: 15px;
+  font-family: 'Montserrat' , sans-serif;
+  color: #49EBB2;
+}
+/* color code from wheel provides more variation*/
+
+h1{
+  font-family: 'Lato', sans-serif;
+  font-size: 25px;
+}
